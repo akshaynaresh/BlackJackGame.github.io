@@ -1,0 +1,36 @@
+body {
+    font-family: 'Oswald', sans-serif;	
+    text-align: center;
+	background-image: url("images/table.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+}
+
+h1 {
+	color: goldenrod;
+	font-size: 100px;
+}
+
+p {
+	font-size: 40px;
+}
+
+#message-el {
+	font-style: italic;
+}
+
+button {
+	color: #016f32;
+	width: 350px;
+	background-color: goldenrod;
+	padding: 10px 30px;
+	border-radius: 10px;
+	font-size: 40px;
+	font-weight: 700;
+	margin: 10px;
+}
+
+#sum-el, #card-el {
+	font-weight: 700;
+}
